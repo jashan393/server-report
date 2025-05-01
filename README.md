@@ -1,2 +1,4 @@
-# server-report
-This repository contains the starter files for the Server Report
+# Server Report
+
+## Objective
+Confirm that your local development environment is properly installed and configured. 
