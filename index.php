@@ -1,9 +1,9 @@
 <?php
   // Update $name variable with your name
-  $name = '';
+  $name = 'Jashanpreet Kaur';
   
   // Create $section variable with your course section
-  $section = '';
+  $section = 'CST8257 Spring 2025 section 300';
 
   // SQLite version
   $db = new PDO('sqlite:data.sqlite');
